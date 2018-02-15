@@ -1,0 +1,6 @@
+﻿p
+Gail:Shtora, Shorti,
+Tom Odel:T-shirt, Sweater, Bikini,
+Den:Shorti, Skirt,
+Katy S.:Boots, Bra,
+Fin:Sweater, Bikini,

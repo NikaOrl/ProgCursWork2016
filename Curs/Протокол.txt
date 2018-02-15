@@ -1,0 +1,17 @@
+--------Протокол работы программы--------
+Предлагаемые изделия:
+1. Shtora - 50 единиц материала
+2. Shorti - 30 единиц материала
+3. T-shirt - 56 единиц материала
+4. Sweater - 60 единиц материала
+5. Bikini - 70 единиц материала
+6. Skirt - 40 единиц материала
+7. Boots - 20 единиц материала
+8. Bra - 50 единиц материала
+Заказы:
+1. Gail: Shtora -> Shorti -> Skirt
+2. Tom Odel: T-shirt -> Sweater -> Bikini
+3. Den: Shorti -> Skirt
+4. Katy S.: Boots -> Bra
+5. Fin: Sweater -> Bikini
+6. Hither: Skirt
